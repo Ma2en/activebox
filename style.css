@@ -59,6 +59,7 @@ body, html {
 }
 .button{
     background-color: orangered;
+    box-shadow: 0 10px 30px 0px rgba(255, 68, 0, 0.507);
     margin: 80px auto;
     width: auto;
     height: 50px ;
@@ -67,6 +68,7 @@ body, html {
     color: whitesmoke;
     border-radius: 2px;
     border: none; 
+    cursor: pointer;
 }
 .bottom-side{
     display: inline-block;
